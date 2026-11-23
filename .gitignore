@@ -1,0 +1,9 @@
+.venv/
+.env
+*.session
+*.session-journal
+qr_login.html
+__pycache__/
+.pytest_cache/
+*.pyc
+style_profile.txt
